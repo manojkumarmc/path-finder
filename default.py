@@ -1,0 +1,5 @@
+
+
+DEFAULT = {
+    'default': 'server'
+}
